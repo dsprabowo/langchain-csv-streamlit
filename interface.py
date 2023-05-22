@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-import json
-
 from agent import agent_query, generate_agent
 
 st.title("HUMANIZE YOUR DATA!")
